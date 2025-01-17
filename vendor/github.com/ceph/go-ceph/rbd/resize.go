@@ -4,7 +4,6 @@ package rbd
 
 /*
 #cgo LDFLAGS: -lrbd
-#define _POSIX_C_SOURCE 200112L
 #undef _GNU_SOURCE
 #include <errno.h>
 #include <stdlib.h>
